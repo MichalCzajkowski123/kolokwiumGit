@@ -9,3 +9,4 @@ Zmiana3
 dowolna1
 dowolna2
 klon zmiana
+Zmiana10
