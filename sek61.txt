@@ -7,3 +7,5 @@ prostaWersja
 Zmiana2
 Zmiana3
 dowolna1
+dowolna2
+
